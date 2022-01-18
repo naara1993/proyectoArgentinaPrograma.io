@@ -1,0 +1,48 @@
+
+.profile-image{
+border-radius: 50%;
+ width: 220px;
+ height: 220px;
+ margin-top: -110px;
+ z-index: 1;
+}
+
+.mat-card{
+margin: 15px 15px;
+padding: 20px;
+}
+#estilo-imagen{
+  width: 100%;
+  height: 550px;
+  border-radius: 40px;
+}
+div.card.mat-card{
+border-radius: 40px;
+border-color: blue;
+padding: 0%;
+
+
+}
+svg.bi.bi-pencil-fill{
+  color: black;
+  width: 100px;
+}
+.imagen{
+  width: 40px;
+  height: 40px;
+}
+ul#info-details li{
+  list-style: none;
+}
+ul#info-details li a{
+text-decoration: none;
+}
+div #info-details .d-flex .justify-content-end{
+  margin-top: 5%;
+}
+#info-data{
+  margin=  10px;
+}
+a.nav-link.btn.btn-primary{
+  background-color: #0D6E9D;
+}
